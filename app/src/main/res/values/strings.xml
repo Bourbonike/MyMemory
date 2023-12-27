@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyMemory</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="play">PLAY</string>
+    <string name="end_game">END Game</string>
+    <string name="finish">FINISH</string>
+    <string name="congartulation">Congartulation!</string>
+    <string name="great_you_won">Great! You won!</string>
+    <string name="place_holder_time">00:00</string>
+    <string name="less_time_more_reward">! less time, more reward</string>
+    <string name="description">Keep matching up two of the same object until there are no more to be paired and you clear the board.</string>
+    <string name="fast">fast</string>
+</resources>
